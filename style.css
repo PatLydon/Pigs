@@ -4,9 +4,10 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  color: #ffffff
+  ;
+  background-color: #6395BC;
+  background-image: url("img/ever2.jpeg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -30,7 +31,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #0174DF;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
